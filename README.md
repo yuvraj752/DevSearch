@@ -1,19 +1,19 @@
 # DevSearch
 
 ## Home
-<img src="./resources/Home.png">  
+<img src="./resources/Home.PNG">  
 
 ## Projects
-<img src="./resources/Projects.png">  
+<img src="./resources/Projects.PNG">  
 
 ## Profile
-<img src="./resources/Profile.png">  
+<img src="./resources/Profile.PNG">  
 
 ## Feedback
-<img src="./resources/Feedback.png">
+<img src="./resources/Feedback.PNG">
 
 ## Message
-<img src="./resources/Message.png">
+<img src="./resources/Message.PNG">
 
 ## Login
-<img src="./resources/Login.png">  
+<img src="./resources/Login.PNG">  
