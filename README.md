@@ -1,19 +1,24 @@
 # DevSearch
 
-## Home
+# Tech Stack
+* Django
+* Python
+* SQL
+
+# Home
 <img src="./resources/Home.PNG">  
 
-## Projects
-<img src="./resources/Projects.PNG">  
-
-## Profile
+# Profile
 <img src="./resources/Profile.PNG">  
 
-## Feedback
+# Projects
+<img src="./resources/Projects.PNG">  
+
+# Feedback
 <img src="./resources/Feedback.PNG">
 
-## Message
+# Message
 <img src="./resources/Message.PNG">
 
-## Login
+# Login
 <img src="./resources/Login.PNG">  
