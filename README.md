@@ -1,5 +1,5 @@
 # DevSearch
- DevSearch is a platform for developers to share their projects and search other developers. Users can leave reviews by up or down voting on projects and commenting on them. Developers can also connect by sending messages to other developers.
+ A platform for developers to share their projects and search other developers. Users can leave reviews by up or down voting on projects and commenting on them. Developers can also connect by sending messages to other developers.
 
 # Tech Stack
 * Django
