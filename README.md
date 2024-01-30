@@ -18,8 +18,8 @@
 # Message
 <img src="./resources/Message.PNG">
 
-<!-- # Responsive
-<img src="./resources/Responsive.png"> -->
+# Responsive
+<img src="./resources/Responsive.PNG">
 
 # Projects
 <img src="./resources/Projects.PNG">  
