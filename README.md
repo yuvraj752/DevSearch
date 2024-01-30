@@ -12,14 +12,17 @@
 # Profile
 <img src="./resources/Profile.PNG">  
 
-# Projects
-<img src="./resources/Projects.PNG">  
-
 # Feedback
 <img src="./resources/Feedback.PNG">
 
 # Message
 <img src="./resources/Message.PNG">
+
+# Responsive
+<img src="./resources/Responsive.png">
+
+# Projects
+<img src="./resources/Projects.PNG">  
 
 # Login
 <img src="./resources/Login.PNG">  
