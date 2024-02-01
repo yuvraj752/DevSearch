@@ -19,7 +19,4 @@
 <img src="./resources/Message.PNG">
 
 # Projects
-<img src="./resources/Projects.PNG">  
-
-# Login
-<img src="./resources/Login.PNG">  
+<img src="./resources/Projects.PNG">
