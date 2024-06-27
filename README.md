@@ -1,6 +1,6 @@
 # DevSearch
 A platform for developers to share their projects and search other developers. It
-also allows them to leave reviews on projects by up or down voting them and also connect by
+allows them to leave reviews on projects by up or down voting them and also connect by
 sending messages to each other.
 
 # Tech Stack
