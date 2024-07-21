@@ -12,7 +12,10 @@ sending messages to each other.
 <img src="./resources/Home.PNG">  
 
 # Profile
-<img src="./resources/Profile.PNG">  
+<img src="./resources/Profile.PNG">
+
+# Project
+<img src="./resources/Project.PNG">
 
 # Feedback
 <img src="./resources/Feedback.PNG">
@@ -22,3 +25,6 @@ sending messages to each other.
 
 # Projects
 <img src="./resources/Projects.PNG">
+
+# Login
+<img src="./resources/Login.PNG">
