@@ -3,28 +3,28 @@ A platform for developers to share their projects and search other developers. I
 allows them to leave reviews on projects by up or down voting them and also connect by
 sending messages to each other.
 
-# Tech Stack
+## Tech Stack
 * Django
 * Python
 * SQL
 
-# Home
+## Home
 <img src="./resources/Home.PNG">  
 
-# Profile
+## Profile
 <img src="./resources/Profile.PNG">
 
-# Project
+## Project
 <img src="./resources/Project.PNG">
 
-# Feedback
+## Feedback
 <img src="./resources/Feedback.PNG">
 
-# Message
+## Message
 <img src="./resources/Message.PNG">
 
-# Projects
+## Projects
 <img src="./resources/Projects.PNG">
 
-# Login
+## Login
 <img src="./resources/Login.PNG">
