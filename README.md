@@ -14,11 +14,11 @@ Website for developers to add their projects for people to search, give feedback
 ## Message
 <img src="./resources/5 Message.PNG">  
 
-## Responsive
-<img src="./resources/9 Responsive.png">  
+## Login
+<img src="./resources/8 Login.PNG">  
 
 ## Feedback
 <img src="./resources/7 Feedback.PNG">  
 
-## Login
-<img src="./resources/8 Login.PNG">  
+## Responsive
+<img src="./resources/9 Responsive.png">  
