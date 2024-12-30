@@ -12,8 +12,6 @@ Website for developers to add their projects for people to search, give feedback
 
 ## Projects
 <img src="./resources/5 Projects.PNG">  
-
-## Project
 <img src="./resources/6 Project.PNG">  
 
 ## Feedback
