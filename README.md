@@ -7,12 +7,12 @@ Website for developers to add their projects for people to search, give feedback
 ## Profile
 <img src="./resources/2 Profile.PNG">  
 
-## Message
-<img src="./resources/5 Message.PNG">  
-
 ## Projects
 <img src="./resources/5 Projects.PNG">  
 <img src="./resources/6 Project.PNG">  
+
+## Message
+<img src="./resources/5 Message.PNG">  
 
 ## Feedback
 <img src="./resources/7 Feedback.PNG">  
