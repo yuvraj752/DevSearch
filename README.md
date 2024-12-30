@@ -6,7 +6,6 @@ Website for developers to add their projects for people to search, give feedback
 
 ## Profile
 <img src="./resources/2 Profile.PNG">  
-<img src="./resources/3 Profile.PNG">  
 
 ## Message
 <img src="./resources/5 Message.PNG">  
