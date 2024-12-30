@@ -14,6 +14,9 @@ Website for developers to add their projects for people to search, give feedback
 ## Message
 <img src="./resources/5 Message.PNG">  
 
+## Responsive
+<img src="./resources/9 Responsive.PNG">  
+
 ## Feedback
 <img src="./resources/7 Feedback.PNG">  
 
