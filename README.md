@@ -1,5 +1,5 @@
 # DevSearch
-Website for developers to add their projects for people to search, give feedback and message them.
+A platform where developers can showcase their projects, receive feedback from users, and communicate with others for collaboration or improvement.
 
 ## Home
 <img src="./resources/1 Home.PNG">  
